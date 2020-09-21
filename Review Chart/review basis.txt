@@ -1,4 +1,0 @@
-out of all of the reviews, 42865 were deemed to be small and only 21 had curse words in them
-16052 of them were therefor deemed to be good.
-
-using Q1 instead of lower bound only added 1583 more
